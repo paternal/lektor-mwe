@@ -1,2 +1,5 @@
 [project]
 name = Minimum Working Example
+
+[packages]
+lektor-shortcodes = 0.2.5
